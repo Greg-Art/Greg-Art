@@ -8,7 +8,7 @@ I am a relentless explorer of the boundless possibilities hidden within data. As
 
 * 🌍  I'm based in Ghana, Accra
 * ✉️  You can contact me at [gregoryarthur98@gmail.com](mailto:gregoryarthur98@gmail.com)
-* 🧠  I'm learning Data Science at Azubi Africa
+* 🧠  I am a Data Science trainee at Azubi Africa
 * 🤝  I'm open to collaborating on SQL, Power BI, and Supervised ML Projects
 * ⚡  Meet your turbocharged team player: fast, detail-oriented, and hilariously awesome!
 
